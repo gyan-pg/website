@@ -1,0 +1,5 @@
+./node_modules
+./package-lock.json
+./pacakge.json
+./webpack.config.js
+node_modules

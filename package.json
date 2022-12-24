@@ -1,0 +1,35 @@
+{
+  "name": "portfolio_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "prod": "webpack --mode production"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "chart.js": "^3.7.1",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^4.0.3",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "jquery-scrollify": "^1.0.21",
+    "progressbar.js": "^1.1.0",
+    "sass": "^1.50.0",
+    "slick-carousel": "^1.8.1",
+    "vegas": "^2.5.4",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-stream": "^7.0.0"
+  }
+}
